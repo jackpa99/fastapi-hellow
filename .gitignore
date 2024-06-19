@@ -1,0 +1,4 @@
+__pycache__
+.env
+# Exclude venv folder
+venv/
